@@ -2,7 +2,7 @@
 
 Updated: 2026-05-27 17:01
 
-This is the corrected production-style architecture:
+This is the corrected production-style architecture: 
 
 ```txt
 Vercel
